@@ -1,19 +1,10 @@
 
-# GroupProject Adventure App
-This is our Adventure App for Things to do today
-
-Our Project:
-Enter your city or state
-We will find something fun for you to do today
-You'll go do it and have a great time!
-
-
-This is our Adventure App for Adventures to have today
-#Teammates Saundra Petersen Rikki Honnold Brandon Vreeman Joe Finnegan Thomas Romano
+# Adventure App
+This is the Adventure App for Things to do today
 
 # Our Project:
 Enter your city or zipcode
-We will find something fun for you to do today
+It will find something fun for you to do today
 You'll go do it and have a great time!
 
 # APIS USED
@@ -23,26 +14,6 @@ You'll go do it and have a great time!
 -Ticketmaster Event Finder 
 
 **Task Breakdown:**
-
-Project Management/Information Architecture: Saundra, Brandon
-
-Front End Captain: Thom
-Bootstrap
-Codepen.io for animation and titles
-
-
-WireFrame/Layout: Rikki/Thom
-User Interface Design: Thom
-User Inputs: Rikki 
-Content Writing: Rikki & Saundra
-
-Back End Captain: Joe
-Javascript: Joe
-Ajax: Saundra 
-API Research: Saundra, Joe
-Database: Joe
-
-Debugging: ALL 
 
 There is a map that will appear on the page
 Once the user enters their zipcode or hits enter,  they will see markers appear on the map
